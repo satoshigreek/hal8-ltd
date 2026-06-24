@@ -1,6 +1,6 @@
 # HAL 8
 
-> HAL 8 is the metered AI inference and agent platform built in Abu Dhabi — turn AI agents into routable, owned infrastructure. Powered by Apex Fusion blockchain settlement.
+> HAL 8 is the metered AI inference and agent platform — turn AI agents into routable, owned infrastructure. Powered by Apex Fusion blockchain settlement.
 
 ## Company
 
