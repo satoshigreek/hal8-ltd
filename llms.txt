@@ -1,0 +1,29 @@
+# HAL 8
+
+> HAL 8 is the metered AI inference and agent platform built in Abu Dhabi — turn AI agents into routable, owned infrastructure. Powered by Apex Fusion blockchain settlement.
+
+## Company
+
+- **Name**: HAL 8 Ltd
+- **Registration**: ADGM 17920
+- **Location**: Al Maryah Island, Abu Dhabi, UAE
+- **Website**: https://www.hal8.ai/
+- **Email**: hello@hal8.io
+
+## What We Do
+
+HAL 8 provides metered AI inference infrastructure that lets enterprises deploy, route, and own AI agent workloads as first-class infrastructure — not as opaque cloud services. Our platform enables:
+
+- **Metered Inference**: Pay-per-token, auditable AI compute
+- **Agent Routing**: Intelligent routing across model providers and regions
+- **Owned Infrastructure**: Run agents as owned, routable services
+- **Knowledge Plane**: Structured knowledge graph, sovereign data, adaptive memory, and continuous feedback via Loop Engine
+- **Apex Fusion**: Purpose-built blockchain settlement layer for AI transactions
+
+## Technology
+
+HAL 8 is built on Apex Fusion — a blockchain designed to settle metered AI workloads with verifiability and auditability. This enables enterprises to treat AI inference the same way they treat cloud compute: as owned, metered, auditable infrastructure.
+
+## Contact
+
+For inquiries: hello@hal8.io
