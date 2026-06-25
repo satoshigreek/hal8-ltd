@@ -1,0 +1,13 @@
+{
+  "name": "HAL 8",
+  "short_name": "HAL 8",
+  "description": "HAL 8 is the metered AI inference and agent platform — turn AI agents into routable, owned infrastructure.",
+  "icons": [
+    { "src": "/web-app-manifest-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/web-app-manifest-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "theme_color": "#07100C",
+  "background_color": "#07100C",
+  "display": "standalone",
+  "start_url": "/"
+}
